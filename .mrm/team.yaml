@@ -1,0 +1,7 @@
+maintainers:
+- alice
+- bob
+notification_channel: '#model-alerts'
+owner: ml-platform-team
+reviewers:
+- carol

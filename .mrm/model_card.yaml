@@ -1,0 +1,11 @@
+current_version: 1.0.0
+description: Credit risk scoring model for retail banking
+framework: sklearn
+name: Credit Risk
+owner: ml-platform-team
+risk_tier: high
+stage: development
+tags:
+- credit
+- risk
+- production

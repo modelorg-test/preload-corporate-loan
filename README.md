@@ -1,2 +1,3 @@
-# preload-corporate-loan
-Auto-created test repo (preload-corporate-loan)
+# Credit Risk Model
+
+See `.mrm/` for model governance.
