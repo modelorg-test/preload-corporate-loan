@@ -1,0 +1,10 @@
+drift_detection: true
+features:
+- ebitda_ratio
+- leverage_ratio
+- interest_coverage
+psi_threshold: 0.2
+quality_metrics:
+- completeness
+- uniqueness
+schedule: weekly

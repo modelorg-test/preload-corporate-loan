@@ -1,0 +1,12 @@
+name: Corporate Credit Grading
+description: Wholesale banking PD/LGD assessment model mapped to internal ratings.
+stage: production
+current_version: 5.0.2
+risk_tier: high
+framework: pytorch
+owner: wholesale-risk
+scope: Wholesale Lending
+tags:
+  domain: corporate
+  type: pd-lgd
+  env: production
